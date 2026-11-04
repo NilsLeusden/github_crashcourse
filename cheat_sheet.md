@@ -18,5 +18,5 @@
 
 ## Level 3.
 
-**git merge**
-**git rebase**
+**git merge (naam branch)**		merged de genoemde branch naar huidige
+**git rebase**					n.v.t.
